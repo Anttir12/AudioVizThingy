@@ -7,3 +7,5 @@ you can change the bar with left and right arrow keys
 There are few limitations:
  -Only works with 44100hz wav files
  -Cant disable background color changing which can be annoying :)
+
+Link to demo: https://youtu.be/mE4WF1ikS40
